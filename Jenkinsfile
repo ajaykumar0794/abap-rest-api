@@ -32,6 +32,7 @@ parallel (
     /* Add more system as needed...
 	,"NPL":{
         node {
+	        echo'New Message line added'
         	def LABEL = "NPL"
         	def HOST = "vhcalnplci.dummy.nodomain"
         	def CREDENTIAL = "NPL"
